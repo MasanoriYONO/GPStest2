@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0adbff0d9c0be38556c89ef1c46c8c7e37c442ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.0.0_b3aa6e5dff594a1bd431cf9e4506174f9fa61e8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_9050791509e77474b4931591a419d3c3329ea6ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_137dfe3378d72c6e09b5642641bd3a13963e7f4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_db66c06db678d9ed9a2cd9d184f4fe7a72241495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6270cb392ca31271fca7e245793e28df4efe1d3e">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4058873c154e779d55b7a5a8fc61cd109e4fb7aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.0.0_524a198b2fe046b6ac3c393daefaf0053f40c633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_021ef3588a3a5790cc4591c15ce9c591f07b1ced/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_8fc5b71a10aca667fe90318fa35fe70f64c6d848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_7a6110ff772d9f7838aadb37d042d708cb4e05da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_6ca4c0314a880964ab6ec81f913a0dcad4a1c62d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ab8229456ded32df0a5864ac129bf22b8c335294">
+        <dex dex="/Users/yono/Documents/IntelliJ_workspace/GPStest2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_288620f889821b16ed2d2ad5cd6fc1887c19f436/classes.dex" />
+    </item>
+
+</items>
